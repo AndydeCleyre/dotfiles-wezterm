@@ -12,7 +12,7 @@ scheme:
     cursor_bg: #ff8bf0
   opacity: 0.95
   fps: 30
-  cursor: SteadyBar
+  cursor: BlinkingBar
 fonts:
   size: 24
   families:

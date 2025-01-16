@@ -19,7 +19,7 @@ return {
   color_scheme = "ConfiguredColors",
 
   window_background_opacity = 0.95,
-  default_cursor_style = "SteadyBar",
+  default_cursor_style = "BlinkingBar",
   animation_fps = 30,
   canonicalize_pasted_newlines = "LineFeed",
   check_for_updates = false,

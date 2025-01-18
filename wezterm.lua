@@ -37,6 +37,7 @@ return {
     "Maple Mono",
     "Fantasque Sans Mono",
     "Ubuntu Mono",
+    "Comic Mono",
     "Share Tech Mono",
     "Symbols Nerd Font Mono",
     "Symbols Nerd Font",

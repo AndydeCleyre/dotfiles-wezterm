@@ -28,6 +28,7 @@ fonts:
       # Sudo currently has bad spacing with nerd font symbols and other weird issues
       - Fantasque Sans Mono
       - Ubuntu Mono
+      - Comic Mono
       - Share Tech Mono
       - Symbols Nerd Font Mono
       - Symbols Nerd Font

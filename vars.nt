@@ -14,7 +14,7 @@ scheme:
   fps: 30
   cursor: BlinkingBar
 fonts:
-  size: 24
+  size: 18
   families:
     # italic: 0xProto
     main:

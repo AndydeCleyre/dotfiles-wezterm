@@ -27,7 +27,7 @@ return {
   disable_default_key_bindings = true,
   enable_tab_bar = false,
 
-  font_size = 24,
+  font_size = 18,
   font = wezterm.font_with_fallback({
     "Andysevka Term",
     "Iosevka Term Custom",

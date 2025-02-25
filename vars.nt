@@ -17,12 +17,14 @@ fonts:
   size: 18
   families:
     # italic: 0xProto
+    # italic: 0xProto Nerd Font
     main:
       - Andysevka Term
       - Iosevka Term Custom
       - Iosevka Term Custom SmEx
       - Iosevka Term Custom Extended
       - 0xProto
+      - 0xProto Nerd Font
       - Maple Mono
       # - Sudo
       # Sudo currently has bad spacing with nerd font symbols and other weird issues

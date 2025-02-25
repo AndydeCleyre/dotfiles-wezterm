@@ -35,6 +35,7 @@ return {
     "Iosevka Term Custom SmEx",
     "Iosevka Term Custom Extended",
     "0xProto",
+    "0xProto Nerd Font",
     "Maple Mono",
     "Fantasque Sans Mono",
     "Ubuntu Mono",

@@ -25,6 +25,7 @@ return {
   check_for_updates = false,
   custom_block_glyphs = false,
   disable_default_key_bindings = true,
+  enable_kitty_graphics = true,
   enable_tab_bar = false,
 
   font_size = 18,
@@ -39,6 +40,7 @@ return {
     "Ubuntu Mono",
     "Comic Mono",
     "Share Tech Mono",
+    "Atkinson Hyperlegible Mono",
     "Symbols Nerd Font Mono",
     "Symbols Nerd Font",
     "NanumGothicCoding",

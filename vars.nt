@@ -20,14 +20,16 @@ fonts:
     # italic: 0xProto Nerd Font
     main:
       - Andysevka Term
-      - Iosevka Term Custom
-      - Iosevka Term Custom SmEx
-      - Iosevka Term Custom Extended
+      - Andysevka Term Semi-Extended
+      - Andysevka Term Extended
       - 0xProto
-      - 0xProto Nerd Font
+
+      # - 0xProto Nerd Font
+      # 0xProto Nerd Font has annoyingly sized nerd symbols
+      # when used as a fallback for other fonts
+
       - Maple Mono
-      # - Sudo
-      # Sudo currently has bad spacing with nerd font symbols and other weird issues
+      - Sudo
       - Fantasque Sans Mono
       - Ubuntu Mono
       - Comic Mono
@@ -44,6 +46,8 @@ fonts:
       - OpenMoji Color
       - JoyPixels
   features:
+    # Some fonts don't play well with frac (Sudo, Maple Mono)
+    # [clig, kern, liga, thnd, txtr]
     [clig, frac, kern, liga, thnd, txtr]
 keys:
   -

@@ -21,11 +21,13 @@ return {
   window_background_opacity = 0.95,
   default_cursor_style = "BlinkingBar",
   animation_fps = 30,
+  adjust_window_size_when_changing_font_size = false,
   canonicalize_pasted_newlines = "LineFeed",
   check_for_updates = false,
   custom_block_glyphs = false,
   disable_default_key_bindings = true,
   enable_kitty_graphics = true,
+  enable_kitty_keyboard = true,
   enable_tab_bar = false,
 
   font_size = 18,

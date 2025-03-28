@@ -18,7 +18,7 @@ return {
   color_schemes = { ["ConfiguredColors"] = scheme },
   color_scheme = "ConfiguredColors",
 
-  window_background_opacity = 0.95,
+  window_background_opacity = 1,
   default_cursor_style = "BlinkingBar",
   animation_fps = 30,
   adjust_window_size_when_changing_font_size = false,

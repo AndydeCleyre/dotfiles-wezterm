@@ -10,7 +10,7 @@ scheme:
     ansi[8]: #dea050
     brights[8]: #ffa52f
     cursor_bg: #ff8bf0
-  opacity: 0.95
+  opacity: 1
   fps: 30
   cursor: BlinkingBar
 fonts:

@@ -29,6 +29,7 @@ return {
   enable_kitty_graphics = true,
   enable_kitty_keyboard = true,
   enable_tab_bar = false,
+  freetype_load_flags = "NO_HINTING",
 
   font_size = 18,
   font = wezterm.font_with_fallback({

@@ -34,8 +34,6 @@ return {
   font_size = 18,
   font = wezterm.font_with_fallback({
     "Andysevka Term",
-    "Andysevka Term Semi-Extended",
-    "Andysevka Term Extended",
     "0xProto",
     "Maple Mono",
     "Sudo",

@@ -20,8 +20,6 @@ fonts:
     # italic: 0xProto Nerd Font
     main:
       - Andysevka Term
-      - Andysevka Term Semi-Extended
-      - Andysevka Term Extended
       - 0xProto
 
       # - 0xProto Nerd Font
